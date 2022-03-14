@@ -11,7 +11,7 @@
 
 
 ## Demo
-Here is a working live demo : https://inshorts-react-clone.netlify.app/
+Here is a working live demo : https://quiz-app-react-k.netlify.app/
 
 ## Detailes
 The news data is fetched from Trivia DB Api : https://opentdb.com/api_config.php
